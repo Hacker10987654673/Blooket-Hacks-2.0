@@ -1,4 +1,4 @@
-# Blooket-Hacks-2.0
+
 
 function getStateNode() {
 	for (var i of Object.keys(document.querySelector('#app > div > div'))) {
